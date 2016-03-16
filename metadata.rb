@@ -1,0 +1,7 @@
+name 'compliance-cookbook'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures compliance-cookbook'
+long_description 'Installs/Configures compliance-cookbook'
+version '0.1.0'
